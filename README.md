@@ -30,8 +30,7 @@ FixIt is a **Flutter mobile application prototype** designed to connect homeowne
 | Home Screen                   | Service Category                      | Booking Screen                      |
 | ----------------------------- | ------------------------------------- | ----------------------------------- |
 | <img width="217" height="316" alt="Home-fixit" src="https://github.com/user-attachments/assets/1afea144-1b2f-4cdd-928d-e03ab24915d0" />
-| ![Category](screenshots/category.png) | ![Booking](screenshots/booking.png) |
-<img width="460" height="669" alt="Booking-fixit" src="https://github.com/user-attachments/assets/fad236fe-cd83-46c1-8d0b-331662ffd7aa" />
+| ![Category](screenshots/category.png) | <img width="153" height="223" alt="Booking-fixit" src="https://github.com/user-attachments/assets/fad236fe-cd83-46c1-8d0b-331662ffd7aa" /> |
 
 ---
 
